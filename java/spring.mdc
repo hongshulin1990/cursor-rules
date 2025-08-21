@@ -67,6 +67,7 @@ Data Access and ORM
 - Use Spring Data JPA for database operations.
 - Implement proper entity relationships and cascading.
 - Use database migrations with tools like Flyway or Liquibase.
+- Use @Data for POJO class,do not gnerate getter and setter method.
 
 Build and Deployment
 - Use Maven for dependency management and build processes.
